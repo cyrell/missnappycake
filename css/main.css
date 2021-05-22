@@ -9,7 +9,8 @@
 }
 
 .logo-img {
-    width: 200px;
+    width: 180px;
+    height: auto;
     margin-top: 10px;
     margin-left: 10px;
  }
@@ -202,7 +203,16 @@ textarea {
     font-style: normal;
 }
 
+.img-thumbnail{
+    background: none;
+    border: none;
+}
 
+.btn-primary-spacing 
+{
+margin-right: 5px;
+margin-bottom: 5px !important;
+}
 
 .div-zoom {
 overflow:hidden;
