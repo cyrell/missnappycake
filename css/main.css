@@ -44,6 +44,12 @@ h3, h4 {
 .person:hover {
     border-color: #f1f1f1;
 }
+
+.carousel .item img {
+    max-height: 800px;
+    min-width: auto;
+  }
+
 .carousel-inner img {
     -webkit-filter: grayscale(0%);
     filter: grayscale(0%); /* make all photos black and white */
